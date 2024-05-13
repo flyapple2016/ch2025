@@ -1,2 +1,2 @@
-FROM minefort/pylexblog:latest
+FROM minefort/hugbot:latest
 USER 10010
